@@ -1,4 +1,4 @@
-# fsd50k_speech_model_fine_tuning
+# FSD50K Speech Model Fine-tuning
 
 MWE of fine-tuning a Transformer-based speech embedder (e.g. [wav2vec 2.0](https://arxiv.org/abs/2006.11477)) on a subset of FSD50K using `pytorch_lightning` and HuggingFace `transformers`. 
 
