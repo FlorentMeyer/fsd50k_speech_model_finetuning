@@ -1,9 +1,9 @@
 import csv
-import IPython.display as ipd
 import os
 import os.path as osp
 from typing import Iterable
 
+import IPython.display as ipd
 import numpy as np
 import pandas as pd
 import pytorch_lightning as pl
