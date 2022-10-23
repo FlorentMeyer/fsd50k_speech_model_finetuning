@@ -1,0 +1,7 @@
+ipython
+numpy
+pandas
+pytorch_lightning
+torch
+torchaudio
+transformers
